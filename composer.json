@@ -1,8 +1,8 @@
 {
-    "name": "ossobuffo/php-ico",
+    "name": "shopblocks/php-ico",
     "type": "library",
     "description": "Provides easy-to-use functionality to generate valid ICO files. Adapted from the popular PHP_ICO library.",
-    "homepage": "http://github.com/ossobuffo/php-ico",
+    "homepage": "http://github.com/shopblocks/php-ico",
     "license": "GPL-2.0",
     "authors": [
         {
